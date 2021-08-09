@@ -1,15 +1,15 @@
 import React from 'react';
+import List from './components/List';
+import Header from './components/Header';
 
 function App() {
   return (
     <>
-      <header>
-        <h1>
-          Welcome to smallapps<i>.</i>club !
-        </h1>
-      </header>
+      <Header />
       <main>
-        <p>Site under construction</p>
+        <section>
+          <List />
+        </section>
       </main>
     </>
   );

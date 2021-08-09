@@ -1,0 +1,54 @@
+{
+  "title": "smallapps.club",
+  "description": "Just a collection of small not so smart apps.",
+  "author": "butler@smallApps.club",
+  "projectsDictionary": {
+    "L": {
+      "Light": {
+        "description": "Turn a light on and off.",
+        "links": {
+          "Web": "#",
+          "Android": "#",
+          "iOS": "#",
+          "Tuto": "#"
+        }
+      }
+    },
+    "P": {
+      "Pool": {
+        "description": "Join a virtual swimming pool.",
+        "links": {}
+      }
+    },
+    "Q": {
+      "Pool": {
+        "description": "Join a virtual swimming pool.",
+        "links": {}
+      }
+    },
+    "R": {
+      "Pool": {
+        "description": "Join a virtual swimming pool.",
+        "links": {}
+      }
+    },
+    "S": {
+      "Pool": {
+        "description": "Join a virtual swimming pool.",
+        "links": {}
+      }
+    },
+    "T": {
+      "Pool": {
+        "description": "Join a virtual swimming pool.",
+        "links": {}
+      }
+    },
+    "U": {
+      "Pool": {
+        "description": "Join a virtual swimming pool.",
+        "links": {}
+      }
+    }
+  }
+}
